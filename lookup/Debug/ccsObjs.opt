@@ -1,0 +1,1 @@
+"./main.obj" "./sar.obj" "./usbstk5515.obj" "./usbstk5515_gpio.obj" "./usbstk5515_i2c.obj" -llibc.a 
